@@ -1,8 +1,5 @@
 # best-repo-ever
 
 
-
 Updating
-
-Updating line once more to generate the conflict
-
+Updating this line 4 to test merge conflicts
